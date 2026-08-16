@@ -78,15 +78,15 @@ width="280"/>
 #### 🐍 Snake Contribution Grid
 
 <br clear="both">
-<img src="https://raw.githubusercontent.com/Synapse-CodeX/Synapse-CodeX/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Cloud-Codex-2505/Cloud-Codex-2505/output/snake.svg" alt="Snake animation" />
 
 #### 👾 Space Shooter Contribution Game
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Synapse-CodeX/Synapse-CodeX/output/space-shooter.gif" width="100%" alt="Animated Space Shooter contribution game" />
+  <img src="https://raw.githubusercontent.com/Cloud-Codex-2505/Cloud-Codex-2505/output/space-shooter.gif" width="100%" alt="Animated Space Shooter contribution game" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+
 
 <img height="200" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
