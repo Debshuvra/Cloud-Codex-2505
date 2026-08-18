@@ -57,9 +57,6 @@ width="280"/>
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cloud-Codex-2505&theme=radical&hide_border=true" alt="Barbie's streak" />
-</p>
 
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=Cloud-Codex-2505" alt="trophy" />
